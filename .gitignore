@@ -1,6 +1,8 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
-
+aws-creds-configmap.yml
+set_env.sh
+deploy.sh
 *~
 *.sw[mnpcod]
 *.log
